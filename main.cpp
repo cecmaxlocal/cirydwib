@@ -20,7 +20,9 @@
 #include <linux/elf-fdpic.h>
 #include <linux/auxvec.h>
 
-int main(int argc, char *argv[]) {
+int main() {
+    const char argc;
+    char argv[]; 
     // Example: Print the arguments passed to the program
     printf("Program Name: %s\n", argv[0]);
     for (int i = 1; i < argc; i++) {
