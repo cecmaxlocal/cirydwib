@@ -1,0 +1,18 @@
+Microsoft uses the MIT license specifically for the open-source code of Visual Studio Code, available on GitHub under the MIT License. This license allows free use, copying, modification, merging, publishing, distribution, sublicensing, and selling of the software, as long as the copyright notice and permission notice are included. The software is provided "as is," without warranty of any kind. However, the official Visual Studio Code product distributed by Microsoft is proprietary and subject to Microsoft's Software License Terms, which restrict reverse engineering and impose other conditions.
+
+In summary:
+- Visual Studio Code's open-source code (on GitHub) is under the MIT license, enabling broad freedoms.
+- The official Microsoft-distributed Visual Studio Code product is proprietary with specific license terms.
+- The MIT license itself grants wide rights, including modification and commercial use, with minimal restrictions.[1][2][4][5]
+
+If clarification is needed on a specific Microsoft product or use case regarding the MIT license, please specify.
+
+[1](https://www.mentebinaria.com.br/forums/topic/1474-mit-license-impede-engenharia-reversa/)
+[2](https://code.visualstudio.com/license)
+[3](https://visualstudio.microsoft.com/license-terms/)
+[4](https://github.com/microsoft/vscode/issues/17996)
+[5](https://opensource.org/license/mit)
+[6](https://visualstudio.microsoft.com/ko/license-terms/vs2026-thirdpartynotices/)
+[7](https://visualstudio.microsoft.com/license-terms/vs2022-ga-community/)
+[8](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[9](https://download.microsoft.com/Documents/UseTerms/MSDN%20Subscription_All_English_9ec5a451-8577-4c1f-b042-792fdb1ed31b.pdf)

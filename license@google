@@ -1,0 +1,17 @@
+The license for Microsoft Visual Studio Community Edition allows individual developers to use it for creating both free and paid applications. Organizations can use it under certain conditions: up to five users in a non-enterprise organization, and unlimited users only for classroom learning, academic research, or open-source projects. Use in enterprise organizations (more than 250 PCs or $1 million USD in revenue) is generally restricted except for specific development scenarios like open source, education, or device drivers.
+
+In summary:
+- Individuals can freely use Visual Studio Community for any development, including commercial use.
+- Non-enterprise organizations can use it with up to five users.
+- Enterprise organizations face significant restrictions, and the Pro or Enterprise editions may be required.
+- The license terms also cover usage rights and limitations in detail.
+
+This means for most individual and small team development scenarios, Visual Studio Community is fully permitted to develop and sell software.[1][4][5]
+
+[1](https://visualstudio.microsoft.com/wp-content/uploads/2021/11/Visual-Studio-2022-Community-License-EN.docx)
+[2](https://www.reddit.com/r/VisualStudio/comments/g9zjy8/how_is_the_ce_license_terms_enforced/)
+[3](https://code.visualstudio.com/license)
+[4](https://learn.microsoft.com/en-us/answers/questions/529694/visual-studio-community-edition-commercial-use-and)
+[5](https://visualstudio.microsoft.com/vs/community/)
+[6](https://visualstudio.microsoft.com/license-terms/vs2022-ga-community/)
+[7](https://visualstudio.microsoft.com/license-terms/)
