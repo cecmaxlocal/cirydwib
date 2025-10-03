@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cirydwib", "cirydwib\cirydwib\cirydwib.csproj", "{C62AAB5F-95D3-44DF-8FF4-FEB66E59087F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cirydwib.Sample", "cirydwib\cirydwib.Sample\cirydwib.Sample.csproj", "{FC1874FB-E6BA-4E7E-B168-74DB31CDD4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cirydwib.Tests", "cirydwib\cirydwib.Tests\cirydwib.Tests.csproj", "{AEDA3EA6-E97A-476C-B420-796D1BA0CD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62AAB5F-95D3-44DF-8FF4-FEB66E59087F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62AAB5F-95D3-44DF-8FF4-FEB66E59087F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62AAB5F-95D3-44DF-8FF4-FEB66E59087F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62AAB5F-95D3-44DF-8FF4-FEB66E59087F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1874FB-E6BA-4E7E-B168-74DB31CDD4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1874FB-E6BA-4E7E-B168-74DB31CDD4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1874FB-E6BA-4E7E-B168-74DB31CDD4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1874FB-E6BA-4E7E-B168-74DB31CDD4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDA3EA6-E97A-476C-B420-796D1BA0CD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDA3EA6-E97A-476C-B420-796D1BA0CD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDA3EA6-E97A-476C-B420-796D1BA0CD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDA3EA6-E97A-476C-B420-796D1BA0CD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
